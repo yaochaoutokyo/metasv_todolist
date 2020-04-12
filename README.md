@@ -4,3 +4,5 @@
 2. 部分outputIndex为0， 而gorm默认不存储默认值， 导致数据库内值为null， 需要使用指针来存储domain变量。
 
 3. 一些涉及到翻页逻辑的索引需要倒序
+
+4. https://api.metasv.com/v1/address/1P3GQYtcWgZHrrJhUa4ctoQ3QoCU2F65nz/utxo UTXO的确认高度更新有bug
