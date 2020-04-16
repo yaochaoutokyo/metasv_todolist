@@ -5,6 +5,6 @@
 
 3. 一些涉及到翻页逻辑的索引需要倒序。 [done]
 
-4. https://api.metasv.com/v1/address/1P3GQYtcWgZHrrJhUa4ctoQ3QoCU2F65nz/utxo UTXO的确认高度更新有bug
+4. https://api.metasv.com/v1/address/1P3GQYtcWgZHrrJhUa4ctoQ3QoCU2F65nz/utxo UTXO的确认高度更新有bug [done]
 
-5. https://api.metasv.com/v1/address/13E51hwkRV7NzK8N8s6JxccLH4yJQCurtX/utxo 确认的UTXO统计不对
+5. https://api.metasv.com/v1/address/13E51hwkRV7NzK8N8s6JxccLH4yJQCurtX/utxo 确认的UTXO统计不对 [done]
